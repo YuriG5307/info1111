@@ -48,16 +48,16 @@
 \textbf{\huge Self-Learning Report}\\[3cm]
 
 \textbf{\huge Submission number: 1}\\[0.75cm]
-\textbf{Github link: ??}\\[2cm]
+\textbf{Github link: https://github.com/YuriG5307/info1111.git}\\[2cm]
 
 {\large
 \begin{tabular}{|p{0.35\textwidth}|p{0.55\textwidth}|}
 	\hline
-	{\bf Student name} & Yuri Gao\\
+	{\bf Student name} & Yiyang Gao\\
 	{\bf Student ID} & 510015154\\
 	{\bf Topic} & C \textit{Note: This must be the same as was in your topic approval}\\
-	{\bf Levels already achieved} & Level A\\
-	{\bf Levels in this report} & Level A\\
+	{\bf Levels already achieved} & Level A, B, C\\
+	{\bf Levels in this report} & Level A, B, C\\
 	\hline
 \end{tabular}
 }
@@ -174,14 +174,30 @@ Whilst level A is about doing something simple with the topic to just show that 
 
 \subsection{Level B Demonstration}
 
-This is a short description of the application that you have developed in order to demonstration your understanding. (50-100 words).
+This is a short description of the application that you have developed in order to demonstration your understanding. (50-100 words).\\
+
+I have developed an application in C language that integrates the basic concepts of C language that I have learned, such as basic data types, pointers, and the use of libraries. This application is a simple number guessing game, where players are prompted to guess a random number between 1 and 100. Through this game, I can practice and demonstrate my understanding and application of the basic concepts of C language.\\
 
 \subsection{Application artifacts}
 
 Include here a description of what you actually created (what does it do? How does it work? How did you create it?). Include any code or other related artefacts that you created (these should also be included in your github repository).
 
-If you do include screengrabs to show what you have done then these should be annotated to explain what it is showing and what the application does.
+If you do include screengrabs to show what you have done then these should be annotated to explain what it is showing and what the application does.\\
 
+The number guessing game is an interactive console application. When the program starts, it generates a random number between 1 and 100. Then, the program prompts the player to input their guess, and the program gives feedback based on whether the player's guessed number is too high, too low, or correct, until the player guesses correctly.\\
+
+In the process of creating this program, I used various basic data types in C language, such as integers (for storing the secret number and the player's guess) and characters (for receiving player's input). At the same time, I also used pointers to dynamically get player's input. In addition, I utilized the standard library functions in C language, such as rand() to generate random numbers, and printf(), scanf() etc. to interact with the player.\\
+
+Here's the code for the game:\\
+
+\includegraphics[width=1\linewidth]{guessing.game.jpeg}\\
+
+To compile and run this program, you can save this code as a guessing.game.c file, and then enter the following command in the command line:\\
+
+gcc -o guessing.game guessing.game.c\\
+./guessing.game\\
+
+This will compile and run the number guessing game. This application is a practical interactive program that helps me practice and showcase my understanding and application of the C language.
 
 %=============================================================================
 
@@ -191,19 +207,29 @@ If you do include screengrabs to show what you have done then these should be an
 Level C focuses on showing that you have actually understood the tool or technology at a relatively advanced level. You will need to compare it to alternatives, identifying key strengths and weaknesses, and the areas where this tool is most effective. 
 
 \subsection{Strengths}
-What are the key strengths of the item you have learnt? (50-100 words)
+What are the key strengths of the item you have learnt? (50-100 words)\\
+
+C language allows direct manipulation of computer memory and hardware. This is extremely useful when you need to write programs that require high speed or need to communicate directly with hardware. In addition, many popular programming languages today, such as C++ and Java, are based on C language, so learning C makes understanding these languages much easier.\\
 
 \subsection{Weaknesses}
-What are the key weaknesses of the item you have learnt? (50-100 words)
+What are the key weaknesses of the item you have learnt? (50-100 words)\\
+
+However, C language also has some weaknesses. For example, it does not manage memory automatically like some newer programming languages, so programmers need to manage it themselves. If not managed well, it can lead to errors or security issues. Moreover, the syntax of C language is relatively complex, which is not very friendly to beginners.\\
 
 \subsection{Usefulness}
-Describe one scenario under which you believe the topic you have learnt could be useful. (50-100 words)
+Describe one scenario under which you believe the topic you have learnt could be useful. (50-100 words)\\
+
+C language is useful in many places. For example, it is often used to write programs for embedded systems. Embedded systems are like the televisions, microwaves, and printers we use daily. Their hardware resources are limited, and they need a programming language that can directly control the hardware and run efficiently. C language can do this.\\
 
 \subsection{Key Question 1}
-Note: This question is in the table in the ‘Self Learning: List of Topics’ page on Canvas. (50-100 words)
+Note: This question is in the table in the ‘Self Learning: List of Topics’ page on Canvas. (50-100 words)\\
+
+If need to write a program that interacts directly with hardware or needs fine control over memory usage, then C language would be better than Python. In addition, if your program needs to perform a large amount of mathematical calculations or graphics processing, and speed is important, then C language will usually run faster than Python.\\
 
 \subsection{Key Question 2}
-Note: This question is in the table in the ‘Self Learning: List of Topics’ page on Canvas. (50-100 words)
+Note: This question is in the table in the ‘Self Learning: List of Topics’ page on Canvas. (50-100 words)\\
+
+In C language, we generally divide the program into header files and source files. Header files are where some function declarations, macro definitions, and type definitions are stored. They are usually shared by multiple source files. Source files contain the actual implementation of functions, which the compiler converts into code that the machine can understand. Source files include header files, allowing the source files to use the functions and types declared in the header files.\\
 
 
 %=============================================================================

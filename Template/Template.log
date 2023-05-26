@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.3.17)  31 MAR 2023 15:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.5.19)  19 MAY 2023 19:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -651,21 +651,125 @@ Underfull \hbox (badness 10000) in paragraph at lines 165--166
 
  []
 
-[7 <./pointers, string manipulation.jpeg>] [8] [9] [10] (Template.bbl) [11
+[7 <./pointers, string manipulation.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
 
-]
-(Template.aux)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
+<guessing.game.jpeg, id=155, 1399.2275pt x 927.465pt>
+File: guessing.game.jpeg Graphic file (type jpg)
+<use guessing.game.jpeg>
+Package pdftex.def Info: guessing.game.jpeg  used on input line 193.
+(pdftex.def)             Requested size: 426.79135pt x 282.88348pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 193--194
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--199
+
+ []
+
+[9 <./guessing.game.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+
+ []
+
+[10] [11] [12] (Template.bbl) [13
+
+] (Template.aux)
 Package rerunfilecheck Info: File `Template.out' has not changed.
 (rerunfilecheck)             Checksum: D6558721B591636046E4E4FC48DC4384;3293.
  ) 
 Here is how much of TeX's memory you used:
- 11077 strings out of 476344
- 184353 string characters out of 5779697
+ 11086 strings out of 476344
+ 184523 string characters out of 5779697
  1859346 words of memory out of 5000000
- 31314 multiletter control sequences out of 15000+600000
+ 31320 multiletter control sequences out of 15000+600000
  526128 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,76p,462b,515s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,76p,527b,515s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/yurig/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour
 /jknappen/ec/dpi657/ecti1000.pk> </Users/yurig/Library/Application Support/MiKT
 eX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi650/ecbx1200.pk> </Users/yurig/Li
@@ -683,9 +787,9 @@ MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </Users/yuri
 g/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dp
 i657/ecbx1000.pk> </Users/yurig/Library/Application Support/MiKTeX/texmfs/data/
 fonts/pk/ljfour/jknappen/ec/dpi1037/ecbx1200.pk>
-Output written on Template.pdf (12 pages, 747871 bytes).
+Output written on Template.pdf (14 pages, 864191 bytes).
 PDF statistics:
- 539 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
- 181 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 565 PDF objects out of 1000 (max. 8388607)
+ 37 named destinations out of 1000 (max. 500000)
+ 186 words of extra memory for PDF output out of 10000 (max. 10000000)
 
